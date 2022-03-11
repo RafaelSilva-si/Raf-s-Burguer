@@ -18,4 +18,9 @@ link: https://rafsburguer.herokuapp.com/
 ## Instruções para rodar projeto localmente
 
 1 - Faça o clone desse repositório utitizando o comando: </br>
-> git clone
+> git clone https://github.com/RafaelSilva-si/Raf-s-Burguer.git
+
+2 - Entre na pasta do arquivo </br>
+
+3 - Execute o comando: </br>
+> <b>npm i</b> ou <b>yarn</b>
