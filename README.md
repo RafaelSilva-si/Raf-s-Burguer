@@ -12,4 +12,4 @@ O foco nesse projeto, foi o controle de estados do react.js, por exemplo quando 
 
 link: https://rafsburguer.herokuapp.com/
 
-![image](https://user-images.githubusercontent.com/77937182/157856972-eeb45f3e-b9ab-4242-9659-78932d5bde57.png) ![image](https://user-images.githubusercontent.com/77937182/157857084-65c83c3f-2016-446e-99e0-e7ce225f9c4b.png)
+![image](https://user-images.githubusercontent.com/77937182/157857084-65c83c3f-2016-446e-99e0-e7ce225f9c4b.png)
