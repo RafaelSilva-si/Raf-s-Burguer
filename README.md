@@ -11,3 +11,5 @@ Neste projeto, desenvolvi um sistema simples de delivery, mas é bem completo e 
 O foco nesse projeto, foi o controle de estados do react.js, por exemplo quando seleciona um hamburguer, ele já armazena no estado de React o hamburguer selecionado. </br>
 
 link: https://rafsburguer.herokuapp.com/
+
+![image](https://user-images.githubusercontent.com/77937182/157856972-eeb45f3e-b9ab-4242-9659-78932d5bde57.png)
