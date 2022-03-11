@@ -15,6 +15,7 @@ link: https://rafsburguer.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/77937182/157857084-65c83c3f-2016-446e-99e0-e7ce225f9c4b.png)
 
 
-### Instruções para rodar progeto localmente
+## Instruções para rodar projeto localmente
 
-1 -
+1 - Faça o clone desse repositório utitizando o comando: </br>
+> git clone
